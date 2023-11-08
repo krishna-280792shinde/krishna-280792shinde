@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krishna Shinde
 - 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning NLP, Prompt Engineering and LangChain
+- 🌱 I’m currently learning to train, fine-tune a LLM and LLM Ops
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me my Mob: 9762682754
 
